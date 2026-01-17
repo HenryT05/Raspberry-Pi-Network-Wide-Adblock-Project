@@ -46,8 +46,8 @@ For my DNS provider I will choose Cloudflare. Then for the privacy mode I will s
 
 Now its installed and I have to configure my Wi-Fi settings so that all traffic will use the Pi-hole as the DNS server. After I'm done with routing all requests through my Pi-hole. I will head over to my admin page my entering the static ip address assigned to my pi-hole followed with admin. It would look like ```IP-Address/admin```.
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/2b2a7930-41f5-43a9-9f00-231dbd4cbb32" />
-<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/d7f08149-34cf-4701-8b4a-0e35f0acc7fd" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/2b2a7930-41f5-43a9-9f00-231dbd4cbb32" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d7f08149-34cf-4701-8b4a-0e35f0acc7fd" />
 
 With the Dashboard ready I'm going to set a new password just to get it out of the way. In the terminal I make sure i connected via SSH and  run ```  sudo pihole setpassword ```. 
 <img width="800" height="254" alt="image" src="https://github.com/user-attachments/assets/a34905e5-9bff-4e5c-8150-5471d618564b" />
