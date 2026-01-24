@@ -9,7 +9,7 @@ This Project Objective was to create a network-wide ad-blocking solution using a
 - Raspberry Pi hardware configuration and Linux OS deployment
 - Pi-hole installation and DNS server management
 - SSH remote connection
-- VPN integration with Tailscale for remote DNS routing\
+- VPN integration with Tailscale for remote DNS routing
 
 ## Tools Used
 - Raspberry Pi Zero 2 W
